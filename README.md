@@ -1,6 +1,7 @@
 # Projet Kaggle : Chest X-Ray (Pneumonia)
 
 Ce projet a été réalisé par BERKANE Samir, SOULA Sarah et BOUARROUDJ Lisa.
+
 Lien du dépôt sur Kaggle : https://www.kaggle.com/lisabdj/projet-kaggle-chest-x-ray-pneumonia
 
 ## Environnement
